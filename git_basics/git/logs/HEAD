@@ -1,0 +1,26 @@
+0000000000000000000000000000000000000000 6c1774701485ba57f7bcfc2a95cd926bed7a7e4d Ryan Vachon <ryan@ioadigital.com> 1599436544 -0600	commit (initial): Added first files to project.
+6c1774701485ba57f7bcfc2a95cd926bed7a7e4d cbb3590a9569bdb600a2246e5d63166a8cf8063b Ryan Vachon <ryan@ioadigital.com> 1599436856 -0600	commit: Updates to README.txt
+cbb3590a9569bdb600a2246e5d63166a8cf8063b cbb3590a9569bdb600a2246e5d63166a8cf8063b Ryan Vachon <ryan@ioadigital.com> 1599437917 -0600	checkout: moving from master to Test-Branch
+cbb3590a9569bdb600a2246e5d63166a8cf8063b 19d59fe5311b90d7f8420b13da92346f1bbe002f Ryan Vachon <ryan@ioadigital.com> 1599438006 -0600	commit: Test-Branch Changes
+19d59fe5311b90d7f8420b13da92346f1bbe002f cbb3590a9569bdb600a2246e5d63166a8cf8063b Ryan Vachon <ryan@ioadigital.com> 1599438023 -0600	checkout: moving from Test-Branch to master
+cbb3590a9569bdb600a2246e5d63166a8cf8063b 19d59fe5311b90d7f8420b13da92346f1bbe002f Ryan Vachon <ryan@ioadigital.com> 1599438092 -0600	checkout: moving from master to Test-Branch
+19d59fe5311b90d7f8420b13da92346f1bbe002f cbb3590a9569bdb600a2246e5d63166a8cf8063b Ryan Vachon <ryan@ioadigital.com> 1599438265 -0600	checkout: moving from Test-Branch to master
+cbb3590a9569bdb600a2246e5d63166a8cf8063b 19d59fe5311b90d7f8420b13da92346f1bbe002f Ryan Vachon <ryan@ioadigital.com> 1599438297 -0600	checkout: moving from master to Test-Branch
+19d59fe5311b90d7f8420b13da92346f1bbe002f cbb3590a9569bdb600a2246e5d63166a8cf8063b Ryan Vachon <ryan@ioadigital.com> 1599438306 -0600	checkout: moving from Test-Branch to master
+cbb3590a9569bdb600a2246e5d63166a8cf8063b 19d59fe5311b90d7f8420b13da92346f1bbe002f Ryan Vachon <ryan@ioadigital.com> 1599438326 -0600	merge Test-Branch: Fast-forward
+19d59fe5311b90d7f8420b13da92346f1bbe002f 19d59fe5311b90d7f8420b13da92346f1bbe002f Ryan Vachon <ryan@ioadigital.com> 1599438366 -0600	checkout: moving from master to Test-Branch
+19d59fe5311b90d7f8420b13da92346f1bbe002f 19d59fe5311b90d7f8420b13da92346f1bbe002f Ryan Vachon <ryan@ioadigital.com> 1599438401 -0600	checkout: moving from Test-Branch to master
+19d59fe5311b90d7f8420b13da92346f1bbe002f 19d59fe5311b90d7f8420b13da92346f1bbe002f Ryan Vachon <ryan@ioadigital.com> 1599438517 -0600	checkout: moving from master to merge-conflict
+19d59fe5311b90d7f8420b13da92346f1bbe002f 19d59fe5311b90d7f8420b13da92346f1bbe002f Ryan Vachon <ryan@ioadigital.com> 1599438546 -0600	checkout: moving from merge-conflict to master
+19d59fe5311b90d7f8420b13da92346f1bbe002f 19d59fe5311b90d7f8420b13da92346f1bbe002f Ryan Vachon <ryan@ioadigital.com> 1599438688 -0600	checkout: moving from master to merge-conflict
+19d59fe5311b90d7f8420b13da92346f1bbe002f 19d59fe5311b90d7f8420b13da92346f1bbe002f Ryan Vachon <ryan@ioadigital.com> 1599438750 -0600	checkout: moving from merge-conflict to master
+19d59fe5311b90d7f8420b13da92346f1bbe002f 0e7e2e9b769fe4e390be951697de9ea3d397a21c Ryan Vachon <ryan@ioadigital.com> 1599438793 -0600	commit: Master conflict test
+0e7e2e9b769fe4e390be951697de9ea3d397a21c 19d59fe5311b90d7f8420b13da92346f1bbe002f Ryan Vachon <ryan@ioadigital.com> 1599438856 -0600	checkout: moving from master to merge-conflict
+19d59fe5311b90d7f8420b13da92346f1bbe002f a0c5c3cc1dd959aab715b55bbb8c3235bcb8aeb6 Ryan Vachon <ryan@ioadigital.com> 1599438915 -0600	commit: Branch conflict test
+a0c5c3cc1dd959aab715b55bbb8c3235bcb8aeb6 0e7e2e9b769fe4e390be951697de9ea3d397a21c Ryan Vachon <ryan@ioadigital.com> 1599438934 -0600	checkout: moving from merge-conflict to master
+0e7e2e9b769fe4e390be951697de9ea3d397a21c 7177933b70924b3dc53cd0ea3bef110ca570050e Ryan Vachon <ryan@ioadigital.com> 1599439637 -0600	commit (merge): Conflict error dealt with
+7177933b70924b3dc53cd0ea3bef110ca570050e a0c5c3cc1dd959aab715b55bbb8c3235bcb8aeb6 Ryan Vachon <ryan@ioadigital.com> 1599439669 -0600	checkout: moving from master to merge-conflict
+a0c5c3cc1dd959aab715b55bbb8c3235bcb8aeb6 7177933b70924b3dc53cd0ea3bef110ca570050e Ryan Vachon <ryan@ioadigital.com> 1599439689 -0600	checkout: moving from merge-conflict to master
+7177933b70924b3dc53cd0ea3bef110ca570050e ee6eb2466603b8855ecaffcfb8d5507a8034fe0d Ryan Vachon <ryan@ioadigital.com> 1599442754 -0600	pull --ff-only: Fast-forward
+ee6eb2466603b8855ecaffcfb8d5507a8034fe0d 7c5ab2684b36d9cd5ecac8c5ebd0ecde038eda19 Ryan <ryanvachon89@gmail.com> 1599443013 -0600	commit: Local changes to view Remotely
+7c5ab2684b36d9cd5ecac8c5ebd0ecde038eda19 87f49cb0884f73ac42097c400a4855f9b280407e Ryan <ryanvachon89@gmail.com> 1599446275 -0600	merge refs/remotes/origin/master: Fast-forward
